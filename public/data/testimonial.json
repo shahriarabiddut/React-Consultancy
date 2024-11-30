@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Jashim Bhuiyan",
+    "image": "/assets/instructor/i2.png",
+    "testimonial": "This is by far the best service I have ever used. Highly recommended!",
+    "rating": 5
+  },
+  {
+    "id": "12",
+    "name": "Eliyas Kanchon",
+    "image": "/assets/instructor/i1.svg",
+    "testimonial": "Amazing experience! The team was very supportive and helpful.",
+    "rating": 4
+  },
+  {
+    "id": "13",
+    "name": "Shabana",
+    "image": "/assets/instructor/i5.svg",
+    "testimonial": "Great service with fantastic customer support. I'll use it again.",
+    "rating": 4
+  },
+  {
+    "id": "14",
+    "name": "Alamgir",
+    "image": "/assets/instructor/i3.svg",
+    "testimonial": "Superb quality and prompt delivery. Couldn't ask for more.",
+    "rating": 5
+  }
+]

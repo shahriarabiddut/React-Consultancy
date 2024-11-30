@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/instructor/i1.svg",
+    "name": "Md. Ashraf Hossain",
+    "experience": 5,
+    "city": "Dhaka",
+    "languages": ["Bangla", "English"]
+  },
+  {
+    "id": 2,
+    "image": "/assets/instructor/i6.png",
+    "name": "Rakib Uddin",
+    "experience": 7,
+    "city": "Chattogram",
+    "languages": ["Bangla", "English"]
+  },
+  {
+    "id": 3,
+    "image": "/assets/instructor/i3.svg",
+    "name": "Shahriar Kabir",
+    "experience": 3,
+    "city": "Sylhet",
+    "languages": ["Bangla", "Hindi", "English"]
+  },
+  {
+    "id": 4,
+    "image": "/assets/instructor/i2.png",
+    "name": "Nasrin Jahan",
+    "experience": 10,
+    "city": "Rajshahi",
+    "languages": ["Bangla", "English", "Hindi"]
+  },
+  {
+    "id": 5,
+    "image": "/assets/instructor/i4.webp",
+    "name": "Tanvir Ahmed",
+    "experience": 6,
+    "city": "Khulna",
+    "languages": ["Bangla", "English"]
+  },
+  {
+    "id": 6,
+    "image": "/assets/instructor/i5.svg",
+    "name": "Taslima Rahman",
+    "experience": 8,
+    "city": "Barisal",
+    "languages": ["Bangla", "English"]
+  },
+  {
+    "id": 7,
+    "image": "/assets/instructor/i6.png",
+    "name": "Rafiqul Islam",
+    "experience": 4,
+    "city": "Rangpur",
+    "languages": ["Bangla", "English", "Urdu"]
+  },
+  {
+    "id": 8,
+    "image": "/assets/instructor/i5.svg",
+    "name": "Shamima Sultana",
+    "experience": 9,
+    "city": "Comilla",
+    "languages": ["Bangla", "English", "Hindi"]
+  },
+  {
+    "id": 9,
+    "image": "/assets/instructor/i1.svg",
+    "name": "Jahirul Alam",
+    "experience": 2,
+    "city": "Gazipur",
+    "languages": ["Bangla", "English"]
+  },
+  {
+    "id": 10,
+    "image": "/assets/instructor/i2.png",
+    "name": "Fatema Begum",
+    "experience": 12,
+    "city": "Narayanganj",
+    "languages": ["Bangla", "English"]
+  }
+]

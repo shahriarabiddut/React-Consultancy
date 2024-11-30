@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/services/service1.webp",
+    "name": "Career Guidance",
+    "category": "Online",
+    "price": 50,
+    "counselorName": "Dr. Sarah Johnson",
+    "description": "Career guidance services are designed to help individuals explore their professional goals and opportunities. With personalized sessions, we help clients identify their strengths, passions, and potential career paths. Whether you're a student planning your future or a professional considering a career change, Dr. Sarah Johnson provides expert advice to ensure you make informed decisions and achieve long-term success.",
+    "duration": "05-12-24 5-6pm",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "image": "/assets/services/service2.webp",
+    "name": "Mental Wellness",
+    "category": "Online",
+    "price": 70,
+    "counselorName": "Mr. Kevin Richards",
+    "description": "Mental wellness sessions aim to support individuals in managing stress, anxiety, and other mental health challenges. Mr. Kevin Richards combines evidence-based practices with a compassionate approach to foster resilience and emotional balance. These sessions are ideal for anyone looking to improve their mental well-being and enhance their quality of life.",
+    "duration": "06-12-24 3-4pm",
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "image": "/assets/services/service3.webp",
+    "name": "Business Strategy",
+    "category": "Offline",
+    "price": 100,
+    "counselorName": "Ms. Emily Brown",
+    "description": "Our business strategy consultancy helps entrepreneurs and organizations optimize their operations and achieve sustainable growth. Ms. Emily Brown brings years of experience in corporate strategy, offering insights into market trends, competition, and innovation. From startups to established businesses, these sessions provide actionable plans for success.",
+    "duration": "07-12-24 1-2pm",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "image": "/assets/services/service4.png",
+    "name": "Immigration Consultation",
+    "category": "Offline",
+    "price": 150,
+    "counselorName": "Mr. Robert Smith",
+    "description": "Immigration consultations assist individuals and families in navigating complex visa and immigration processes. Mr. Robert Smith specializes in legal frameworks, documentation, and compliance. With a focus on accuracy and efficiency, we ensure clients achieve their immigration goals smoothly and successfully.",
+    "duration": "08-12-24 10-11am",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "image": "/assets/services/service5.webp",
+    "name": "Relationship Counseling",
+    "category": "Online",
+    "price": 60,
+    "counselorName": "Dr. Anna Taylor",
+    "description": "Relationship counseling provides a safe space to address conflicts, build trust, and improve communication. Dr. Anna Taylor works with couples and individuals to strengthen relationships, resolve issues, and foster mutual understanding. These sessions are tailored to meet each client's unique needs and relationship dynamics.",
+    "duration": "09-12-24 4-5pm",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "image": "/assets/services/service6.webp",
+    "name": "Financial Planning",
+    "category": "Offline",
+    "price": 80,
+    "counselorName": "Mr. John Walker",
+    "description": "Financial planning sessions help clients manage their finances, set achievable goals, and secure their future. Mr. John Walker provides expert advice on budgeting, investments, and retirement planning. With practical strategies and personalized solutions, clients can achieve financial stability and confidence.",
+    "duration": "10-12-24 2-3pm",
+    "rating": 4.9
+  }
+]
