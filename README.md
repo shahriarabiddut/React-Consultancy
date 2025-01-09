@@ -30,7 +30,7 @@ The Career Counseling Website aspires to empower individuals with the knowledge 
 
 ## Technology Stack
 
-### Frontend (Query-Client)
+### Frontend
 - **React**: Framework for building the platform’s user interface.
 - **DaisyUI & Tailwind CSS**: Tools for creating a responsive and visually appealing design.
 
@@ -84,11 +84,10 @@ These packages are required during development to enhance the development workfl
 
 ## Instructions for Running the Project Locally
 
-### Frontend (Query-Client)
-1. **Navigate to the `query-client` folder:**
--   `cd query-client`
-2. **Install the dependencies:**
+### Frontend 
+1. **Install the dependencies:**
 -   `npm install`
+- Fake Datas are in `public/data` folder
 3. **Create/Replace .env.local (Rename .env.example to .env.local ):**
 -   Add your Credentials Here !
 4. **Start the development server:**
